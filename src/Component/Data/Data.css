@@ -1,0 +1,22 @@
+.Country img{
+    height: 100px;
+}
+.Country{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-bottom: 5px;
+    /* margin-right: 5px; */
+    padding: 5px;
+}
+.Country h4{
+  color: blue;
+  font-weight: 300px;
+}
+.Country button{
+    height: 30px;
+    width: 130px;
+    background-color: rgb(94, 93, 93);
+    border: 1px solid black;
+    border-radius: 5px ;
+    cursor: pointer;
+}
